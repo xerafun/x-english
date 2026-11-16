@@ -37,6 +37,11 @@ const MODULES = [
     description: '口试指导、听力、阅读、写作全攻略，助你顺利通关。',
     path: '/docs/pet3/speaking/speaking-guide',
   },
+  {
+    title: '🎓 专升本 13000',
+    description: '自考英语统考新大纲、话题短文与书信真题模板打卡。',
+    path: '/docs/writing/checkin',
+  },
 ];
 
 const FEATURES = [
@@ -69,12 +74,24 @@ function HomepageHeader() {
       <div className={styles.heroWash}></div>
       <div className="container">
         <div className={styles.heroContent}>
+          <div className={styles.brandBadge}>
+            <span className={styles.brandBadgeDot}></span>
+            <a
+              href="https://xerafun.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              className={styles.brandLink}>
+              XeraFun 主站
+            </a>
+            <span className={styles.brandDivider}>/</span>
+            <span>X-English</span>
+          </div>
           <Heading as="h1" className={styles.heroTitle}>
             Master English with<br />
             <span className={styles.heroTitleHighlight}>Engineering Precision</span>
           </Heading>
           <p className={styles.heroSubtitle}>
-            X-English 是一个面向中文学习者的现代化英语知识库。我们将英语学习解构为语法、词汇与 PETS-3 备考等核心模块，助你从零基础到流利表达。
+            X-English 是 <strong>XeraFun</strong> 旗下的系统化英语学习平台。我们将英语学习解构为语法、词汇、PETS-3 备考与自考 13000 专升本英语等核心模块，助你从零基础到流利表达。
           </p>
           <div className={styles.heroButtons}>
             <Link
@@ -152,8 +169,8 @@ function FeaturesSection() {
 export default function Home(): ReactNode {
   return (
     <Layout
-      title="首页"
-      description="X-English 系统化英语学习平台。从语法到词汇，全面提升英语能力。">
+      title="X-English · 系统化英语学习平台"
+      description="X-English 是 XeraFun 旗下的现代化英语学习知识库，涵盖系统化语法图解、分级场景词汇、PETS-3 备考、自考 13000 专升本英语与互动写作打卡。">
       <HomepageHeader />
       <main>
         <ModulesSection />

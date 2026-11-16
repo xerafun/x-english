@@ -1,0 +1,98 @@
+# X-English (english.xerafun.com) - Full LLM Knowledge Map
+
+> X-English 是 XeraFun (https://xerafun.com) 旗下的系统化英语学习与备考知识库平台。
+> 本文件为全量知识库索引映射，供各类大语言模型（LLM）与生成式搜索检索抓取。
+
+## 品牌层级 (Brand Hierarchy)
+- 主项目：XeraFun
+- 主站官方网址：https://xerafun.com
+- 英语子站主要访问网址：https://english.xerafun.com
+- 代码仓库：https://github.com/xera-2011/x-english
+
+---
+
+## 详细目录与主要知识点 (Detailed Table of Contents)
+
+### 1. 语法知识体系 (`/docs/grammar`)
+- `/docs/grammar/intro`: 语法总览与知识架构
+- `/docs/grammar/tenses/simple-present`: 一般现在时结构与用法
+- `/docs/grammar/tenses/simple-past`: 一般过去时用法与规则/不规则变化
+- `/docs/grammar/tenses/simple-future`: 一般将来时（will vs be going to）
+- `/docs/grammar/tenses/present-continuous`: 现在进行时与进行时表将来
+- `/docs/grammar/tenses/past-continuous`: 过去进行时与时间状语从句配合
+- `/docs/grammar/tenses/present-perfect`: 现在完成时标志词与延续性动词
+- `/docs/grammar/tenses/past-perfect`: 过去完成时“过去的过去”应用场景
+- `/docs/grammar/clauses/relative-clauses`: 定语从句关系代词与关系副词用法、限制性与非限制性
+- `/docs/grammar/clauses/noun-clauses`: 主语从句、宾语从句、表语从句与同位语从句
+- `/docs/grammar/clauses/adverbial-clauses`: 时间、条件、让步、原因状语从句
+- `/docs/grammar/advanced/non-finite-verbs`: 非谓语动词（不定式、动名词、现在分词、过去分词）
+- `/docs/grammar/voice/passive-voice`: 被动语态构成与各种时态被动态
+- `/docs/grammar/mood/subjunctive`: 虚拟语气在条件句、名词性从句中的规则
+- `/docs/grammar/special/inversion`: 全部倒装与部分倒装核心句型
+- `/docs/grammar/special/cleft-sentences`: It is ... that ... 强调句型
+
+### 2. 词汇知识体系 (`/docs/vocabulary`)
+- `/docs/vocabulary/intro`: 科学词汇记忆法与 CEFR 分级
+- `/docs/vocabulary/core-words/campus`: 校园与学业场景核心词
+- `/docs/vocabulary/core-words/daily-life`: 日常生活与消费场景核心词
+- `/docs/vocabulary/core-words/emotions`: 情绪表达与心理状态词汇
+- `/docs/vocabulary/core-words/society`: 社会文化与公共议题核心词
+- `/docs/vocabulary/cet4-high-frequency`: 大学英语四级（CET-4）高频核心必背词
+
+### 3. PETS-3 专区 (`/docs/pet3`)
+- `/docs/pet3/speaking/speaking-guide`: 口试大纲与备考策略
+- `/docs/pet3/speaking/part-a`: Part A 自我介绍高分话术
+- `/docs/pet3/speaking/part-b`: Part B 信息卡双人问答技巧
+- `/docs/pet3/speaking/part-c`: Part C 连续表达与图片论述模板
+- `/docs/pet3/listening/listening-guide`: 听力破局要点与考场技巧
+- `/docs/pet3/listening/part-a-short`: 听力短对话训练
+- `/docs/pet3/listening/part-b-long`: 听力长对话与短文训练
+- `/docs/pet3/language-use/language-use-guide`: 完形填空核心解题法
+- `/docs/pet3/language-use/vocab-collocations`: 核心考点固定搭配
+- `/docs/pet3/language-use/grammar-points`: 高频易错语法点剖析
+- `/docs/pet3/language-use/cloze-practice`: 完形填空专项真题模拟
+- `/docs/pet3/reading/reading-guide`: 阅读大纲与题型深度剖析
+- `/docs/pet3/reading/question-types`: 主旨大意题、细节理解题、推理判断题解法
+- `/docs/pet3/reading/trap-breaker`: 常见阅读干扰项与避坑手册
+- `/docs/pet3/reading/reading-practice`: 阅读精选真题题库演练
+- `/docs/pet3/writing/writing-guide`: 写作题型、评分标准与提分指南
+- `/docs/pet3/writing/universal-sentences`: 写作万能句型与过渡连接词
+- `/docs/pet3/writing/model-essays`: A节应用文与B节短文满分范文
+
+### 4. 13000 专升本英语专项与写作打卡 (`/docs/writing/checkin`)
+- 课程代码：高等教育自考全国统考 13000《英语（专升本）》（原 00015 英语二）
+- 话题短文打卡：
+  - 网络用途 (Uses of the Internet - 2024.10真题)
+  - 健康生活 (Live a Healthy Life - 2023.10真题)
+  - 公共文明 (No Smoking in Public Places - 2023.04真题)
+  - 终身学习 (Lifelong Learning)
+  - 出行安全 (Safe Journey - 2024.04真题)
+- 应用文书信打卡：
+  - 建议信 (Letter of Advice)
+  - 申请信 (Application Letter)
+  - 感谢信 (Letter of Thanks)
+  - 邀请信 (Letter of Invitation)
+  - 道歉信 (Letter of Apology)
+- 配套功能：实时字数统计（100-120词精准把控）、重点句型加粗、双语对照、Canvas 打卡海报一键导出分享。
+
+### 5. 英语写作中心 (`/docs/writing`)
+- `/docs/writing/intro`: 写作入门与篇章逻辑构建
+- `/docs/writing/argumentative-essays`: 议论文正反观点与折中论述
+- `/docs/writing/expository-essays`: 说明文事物特征与原理解读
+- `/docs/writing/graph-description`: 图表描述（折线图、柱状图、饼图数据描写）
+- `/docs/writing/picture-description`: 漫画看图作文立意与象征意义升华
+- `/docs/writing/practical-writing`: 实用应用文（通知、邮件、简历）
+
+### 6. 听力训练中心 (`/docs/listening`)
+- `/docs/listening/intro`: 精听与泛听结合练习法
+- `/docs/listening/short-conversations`: 场景短对话听力跟读
+- `/docs/listening/long-conversations`: 长对话与观点提取训练
+- `/docs/listening/dictation`: 听写专项与语音连读弱读突破
+
+### 7. 分级阅读精选 (`/docs/reading`)
+- `/docs/reading/intro`: 英语分级阅读方法论
+- `/docs/reading/technology`: 人工智能、航天与数字化前沿
+- `/docs/reading/business`: 职场商务、市场与经济观察
+- `/docs/reading/society-culture`: 全球多元文化与社会现象
+- `/docs/reading/daily-topics`: 生活方式与人际关系探讨
+- `/docs/reading/environment-health`: 生态环境保护与身心健康

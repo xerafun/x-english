@@ -4,15 +4,17 @@
 [![Deploy](https://github.com/XERA-2011/x-english/actions/workflows/deploy.yml/badge.svg)](https://github.com/XERA-2011/x-english/actions/workflows/deploy.yml)
 [![Sponsor](https://img.shields.io/badge/Sponsor-❤️-ff69b4.svg)](https://github.com/XERA-2011/sponsor)
 
-X-English 是一个基于 Docusaurus 构建的英语学习文档站，当前内容覆盖通用英语能力训练（词汇、语法、听力、阅读、写作）与 **PETS-3 专项备考**。
+X-English 是 **[XeraFun](https://xerafun.com/)** 旗下的现代化英语学习知识库平台，主要访问域名为 **[english.xerafun.com](https://english.xerafun.com/)**。内容覆盖通用英语能力训练（词汇、语法、听力、阅读、写作）、**PETS-3 专项备考** 与 **自考 13000 专升本英语写作打卡**。
 
-## 🌐 在线地址
+## 🌐 在线地址与站点层级
 
-| Platform | URL |
-|---|---|
-| Cloudflare Pages | [x-english.pages.dev](https://x-english.pages.dev/) |
-| Vercel | [x-english.vercel.app](https://x-english.vercel.app/) |
-| GitHub Pages | [xera-2011.github.io/x-english](https://xera-2011.github.io/x-english/) |
+| 角色 / 平台 | 访问地址 | 说明 |
+|---|---|---|
+| **主项目官网** | [xerafun.com](https://xerafun.com/) | XeraFun 主站平台 |
+| **主要访问地址 (Primary)** | [english.xerafun.com](https://english.xerafun.com/) | 英语知识库官方独立子站 |
+| Cloudflare Pages | [x-english.pages.dev](https://x-english.pages.dev/) | 边缘分发节点 |
+| Vercel | [x-english.vercel.app](https://x-english.vercel.app/) | 备用分发节点 |
+| GitHub Pages | [xera-2011.github.io/x-english](https://xera-2011.github.io/x-english/) | 开源镜像节点 |
 
 ## 环境要求
 
@@ -94,6 +96,13 @@ pnpm run deploy
   - 阅读理解
   - 写作全攻略
   - 写作句型与范文
+
+### 13000 专升本英语
+
+- 🎓 专升本英语写作（`docs/writing/checkin`）
+  - 话题短文打卡（网络用途、健康生活、公共文明、终身学习、出行安全等真题）
+  - 应用文书信打卡（建议信、申请信、感谢信、邀请信、道歉信）
+  - 实时字数统计与高清海报一键导出生成
 
 ## 可用 MDX 组件
 
