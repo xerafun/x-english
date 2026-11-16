@@ -7,7 +7,7 @@
 - 主项目：XeraFun
 - 主站官方网址：https://xerafun.com
 - 英语子站主要访问网址：https://english.xerafun.com
-- 代码仓库：https://github.com/xera-2011/x-english
+- 代码仓库：https://github.com/xerafun/x-english
 
 ---
 

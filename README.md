@@ -1,8 +1,8 @@
 # X-English
 
-[![CI](https://github.com/XERA-2011/x-english/actions/workflows/ci.yml/badge.svg)](https://github.com/XERA-2011/x-english/actions/workflows/ci.yml)
-[![Deploy](https://github.com/XERA-2011/x-english/actions/workflows/deploy.yml/badge.svg)](https://github.com/XERA-2011/x-english/actions/workflows/deploy.yml)
-[![Sponsor](https://img.shields.io/badge/Sponsor-❤️-ff69b4.svg)](https://github.com/XERA-2011/sponsor)
+[![CI](https://github.com/xerafun/x-english/actions/workflows/ci.yml/badge.svg)](https://github.com/xerafun/x-english/actions/workflows/ci.yml)
+[![Deploy](https://github.com/xerafun/x-english/actions/workflows/deploy.yml/badge.svg)](https://github.com/xerafun/x-english/actions/workflows/deploy.yml)
+[![Sponsor](https://img.shields.io/badge/Sponsor-❤️-ff69b4.svg)](https://github.com/xerafun/sponsor)
 
 X-English 是 **[XeraFun](https://xerafun.com/)** 旗下的现代化英语学习知识库平台，主要访问域名为 **[english.xerafun.com](https://english.xerafun.com/)**。内容覆盖通用英语能力训练（词汇、语法、听力、阅读、写作）、**PETS-3 专项备考** 与 **自考 13000 专升本英语写作打卡**。
 
@@ -14,7 +14,7 @@ X-English 是 **[XeraFun](https://xerafun.com/)** 旗下的现代化英语学习
 | **主要访问地址 (Primary)** | [english.xerafun.com](https://english.xerafun.com/) | 英语知识库官方独立子站 |
 | Cloudflare Pages | [x-english.pages.dev](https://x-english.pages.dev/) | 边缘分发节点 |
 | Vercel | [x-english.vercel.app](https://x-english.vercel.app/) | 备用分发节点 |
-| GitHub Pages | [xera-2011.github.io/x-english](https://xera-2011.github.io/x-english/) | 开源镜像节点 |
+| GitHub Pages | [xerafun.github.io/x-english](https://xerafun.github.io/x-english/) | 开源镜像节点 |
 
 ## 环境要求
 

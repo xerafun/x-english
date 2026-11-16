@@ -15,7 +15,7 @@ const config: Config = {
   baseUrl: process.env.DOCUSAURUS_BASE_URL || '/',
   trailingSlash: false,
 
-  organizationName: 'xera-2011',
+  organizationName: 'xerafun',
   projectName: 'x-english',
 
   onBrokenLinks: 'throw',
@@ -47,7 +47,7 @@ const config: Config = {
             url: 'https://xerafun.com',
             logo: 'https://english.xerafun.com/img/logo.svg',
             sameAs: [
-              'https://github.com/xera-2011',
+              'https://github.com/xerafun',
               'https://xerafun.com',
             ],
           },
@@ -207,7 +207,7 @@ const config: Config = {
           label: '🏠 XeraFun 主站',
         },
         {
-          href: 'https://github.com/xera-2011/x-english',
+          href: 'https://github.com/xerafun/x-english',
           position: 'right',
           className: 'header-github-link',
           'aria-label': 'GitHub repository',
@@ -239,7 +239,7 @@ const config: Config = {
           items: [
             {label: 'XeraFun 官网主站', href: 'https://xerafun.com'},
             {label: 'X-English 平台', href: 'https://english.xerafun.com'},
-            {label: 'GitHub 源码', href: 'https://github.com/xera-2011/x-english'},
+            {label: 'GitHub 源码', href: 'https://github.com/xerafun/x-english'},
           ],
         },
       ],

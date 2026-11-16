@@ -1,7 +1,8 @@
 {
-  "name": "users-xera-git-hub-x-english",
+  "name": "x-english",
   "version": "0.0.0",
   "private": true,
+  "author": "xerafun",
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
